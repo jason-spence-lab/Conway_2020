@@ -1,22 +1,17 @@
-# Holloway_Czerwinski_Tsai_2020
-This repository contains code for analyses as seen in "In vitro and in vivo development of the human intestinal niche at single cell resolution" - Emily M. Holloway, Michael Czerwinski, Yu-Hwai Tsai et. al (2020). 
+# Conway_2020
+This repository contains code for analyses as seen in "R-Spondin2+  Mesenchymal Cells are Critical for Bud Tip Progenitor Maintenance During Human Lung Development" - Renne Conway et al. (2020). 
 
-Manuscript can be found here: https://www.biorxiv.org/content/10.1101/2020.01.31.928788v1
-
-## Abstract
-
-The human intestinal stem cell (ISC) niche supports ISC self-renewal and epithelial function, yet little is known about the development of the human ISC niche. We used single-cell mRNA sequencing (scRNA-seq) to interrogate the human intestine across 7-21 weeks of gestation. Using these data coupled with marker validation in situ, molecular identities and spatial locations were assigned to several cell populations that comprise the epithelial niche, and the cellular origins of many niche factors were determined. The major source of WNT and RSPONDIN ligands were ACTA2+ cells of the muscularis mucosa. EGF was predominantly expressed in the villus epithelium and the EGF-family member NEUREGULIN1 (NRG1) was expressed by subepithelial mesenchymal cells. Functional data from enteroid cultures showed that NRG1 improved cellular diversity, enhanced the stem cell gene signature, and increased enteroid forming efficiency, whereas EGF supported a secretory gene expression profile and stimulated rapid proliferation. This work highlights unappreciated complexities of intestinal EGF/ERBB signaling and identifies NRG1 as a stem cell niche factor.
+Abstract: Mammalian respiratory system development is regulated by complex reciprocal signaling events that take place between the epithelial cells lining the airways and the surrounding mesenchymal cells. Despite the lung mesenchyme being home to cell types that provide crucial signals during development, the identity and function of specific cell types in the lung mesenchyme are poorly understood, especially in the context of human development. To interrogate mesenchymal cells in the developing human lung, we conducted single cell RNA sequencing on multiple human lung specimens and identified a population highly enriched for expression of the WNT agonist R-Spondin2 (RSPO2). We also show that epithelial bud tip progenitors are enriched for the receptor LGR5. Utilizing in vitro organoid models and lung explant cultures, we show that functionally blocking RSPO2 leads to reduced WNT signaling and precocious progenitor differentiation, suggesting that RSPO2+ mesenchymal cells are a critical component of the epithelial niche during human lung development.
 
 ## About
 
-To run this project, install Scanpy from [here](https://github.com/theislab/scanpy). Make sure to have a recent version of Python. As of March 2020, we are using Python version 3.7.3.
+To run this project, install Scanpy from [here](https://github.com/theislab/scanpy). Make sure to have a recent version of Python. As of March 2021, we are using Python version 3.7.6.
 
 To understand the single cell analysis tools, check out the Scanpy and Seurat tutorials side-by-side [here](https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html) and [here](https://satijalab.org/seurat/v3.0/pbmc3k_tutorial.html)
 
 ## Authors
 
 * **Joshua Wu** wujos@med.umich.edu
-* **Mike Czerwinski** czerwmj@med.umich.edu
 
 Any questions, comments and/or feedback are welcome!
 
