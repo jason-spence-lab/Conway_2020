@@ -1,5 +1,5 @@
-# Conway_2020
-This repository contains code for analyses as seen in "R-Spondin2+  Mesenchymal Cells are Critical for Bud Tip Progenitor Maintenance During Human Lung Development" - Renne Conway et al. (2020). 
+# Hein_2021
+This repository contains code for analyses as seen in "R-Spondin2+ Mesenchymal Cells are a Critical Component of the Bud Tip Progenitor Niche During Human Lung Development" - Renne Hein et al. (2021). 
 
 Abstract: Mammalian respiratory system development is regulated by complex reciprocal signaling events that take place between the epithelial cells lining the airways and the surrounding mesenchymal cells. Despite the lung mesenchyme being home to cell types that provide crucial signals during development, the identity and function of specific cell types in the lung mesenchyme are poorly understood, especially in the context of human development. To interrogate mesenchymal cells in the developing human lung, we conducted single cell RNA sequencing on multiple human lung specimens and identified a population highly enriched for expression of the WNT agonist R-Spondin2 (RSPO2). We also show that epithelial bud tip progenitors are enriched for the receptor LGR5. Utilizing in vitro organoid models and lung explant cultures, we show that functionally blocking RSPO2 leads to reduced WNT signaling and precocious progenitor differentiation, suggesting that RSPO2+ mesenchymal cells are a critical component of the epithelial niche during human lung development.
 
